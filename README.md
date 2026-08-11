@@ -1,30 +1,29 @@
 # ML_lab
 # Machine Learning Lab Environment Setup (ml_env)
-# Compatible with Python 3.9+
 
-# Core Python Data Science & ML Stack
-numpy>=1.24.0
-scipy>=1.10.0
-pandas>=2.0.0
-scikit-learn>=1.3.0
-statsmodels>=0.14.0
+#1. Prerequisites
 
-# Visualization & Model Analysis
-matplotlib>=3.7.0
-seaborn>=0.12.0
+Make sure Python and Git are available:
+python3 --version
+git --version
 
-# Interactive Lab Environment
-jupyterlab>=4.0.0
-notebook>=7.0.0
-ipykernel>=6.25.0
+#2. Clone the Repository
 
-# Decision Tree Visualization & Utilities
-graphviz>=0.20.1
-joblib>=1.3.0
+cd ~/Downloads
+git clone <REPOSITORY_URL>
+cd <REPOSITORY_NAME>
 
-# Dataset Readers & File Support
-openpyxl>=3.1.0
-xlrd>=2.0.1
+#3. Install Required Libraries
 
-#Pytorch
-torch>=2.0.0
+Upgrade pip:
+python -m pip install --upgrade pip
+Install all required libraries:
+pip install -r requirements.txt
+Always install packages after activating ml_env.
+#4 Start Jupyter Notebook
+
+jupyter notebook
+Create a new notebook and select:
+New → Python (ml_env)
+For an existing notebook:
+Kernel → Change Kernel → Python (ml_env)
