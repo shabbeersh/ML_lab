@@ -21,6 +21,10 @@ Upgrade pip:
 
 python -m pip install --upgrade pip
 
+create an environment named ml_env:
+
+python -m venv ml_env
+
 Install all required libraries:
 
 pip install -r requirements.txt
