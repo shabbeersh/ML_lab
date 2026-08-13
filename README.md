@@ -10,8 +10,11 @@ python3 --version
 git --version
 
 #2. Clone the Repository
+
 cd ~/Downloads
+
 git clone <REPOSITORY_URL>
+
 cd <REPOSITORY_NAME>
 
 #3. Install Required Libraries
