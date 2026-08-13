@@ -13,16 +13,22 @@ git --version
 
 cd ~/Downloads
 
-git clone <REPOSITORY_URL>
+git clone [<REPOSITORY_URL>](https://github.com/shabbeersh/ML_lab/tree/main)
 
-cd <REPOSITORY_NAME>
+cd ML_lab
 
 #3. Install Required Libraries
+
 Upgrade pip:
+
 python -m pip install --upgrade pip
+
 Install all required libraries:
+
 pip install -r requirements.txt
+
 Always install packages after activating ml_env.
+
 #4 Start Jupyter Notebook
 
 jupyter notebook
