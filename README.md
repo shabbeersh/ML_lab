@@ -33,12 +33,18 @@ Install all required libraries: (inside ml_env)
 
 pip install -r requirements.txt
 
+Register the environment in Jupyter Notebooks
 
+python -m ipykernel install --user --name=ml_env --display-name "Python 3.11 (ml_env)
 
 #4 Start Jupyter Notebook
 
 jupyter notebook
+
 Create a new notebook and select:
+
 New → Python (ml_env)
+
 For an existing notebook:
+
 Kernel → Change Kernel → Python (ml_env)
