@@ -11,9 +11,7 @@ git --version
 
 #2. Clone the Repository
 
-cd ~/Downloads
-
-git clone [<REPOSITORY_URL>](https://github.com/shabbeersh/ML_lab/tree/main)
+git clone https://github.com/shabbeersh/ML_lab/tree/main
 
 cd ML_lab
 
