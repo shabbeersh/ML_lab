@@ -25,11 +25,15 @@ create an environment named ml_env:
 
 python -m venv ml_env
 
-Install all required libraries:
+active created environment:
+
+source ~/ml_env/bin/activate
+
+Install all required libraries: (inside ml_env)
 
 pip install -r requirements.txt
 
-Always install packages after activating ml_env.
+
 
 #4 Start Jupyter Notebook
 
