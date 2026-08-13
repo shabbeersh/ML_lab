@@ -2,8 +2,11 @@
 # Machine Learning Lab Environment Setup (ml_env)
 
 #1. Prerequisites
+
 Make sure Python and Git are available:
+
 python3 --version
+
 git --version
 
 #2. Clone the Repository
