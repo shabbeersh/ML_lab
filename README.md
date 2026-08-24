@@ -19,11 +19,11 @@ cd ML_lab
 
 Upgrade pip:
 
-python -m pip install --upgrade pip
+python3 -m pip install --upgrade pip
 
 #4. create an environment named ml_env:
 
-python -m venv ml_env
+python3 -m venv ml_env
 
 activate created environment:
 
