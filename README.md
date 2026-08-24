@@ -27,7 +27,7 @@ python3 -m venv ml_env
 
 activate created environment:
 
-source ~/ml_env/bin/activate
+source ml_env/bin/activate
 
 $5. Install all required libraries: (inside ml_env)
 
