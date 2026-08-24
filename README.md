@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 #6. Register the environment in Jupyter Notebooks
 
-python -m ipykernel install --user --name=ml_env --display-name "Python 3.11 (ml_env)
+python -m ipykernel install --user --name=ml_env --display-name "Python 3.11 (ml_env)"
 
 #7 Start Jupyter Notebook
 
