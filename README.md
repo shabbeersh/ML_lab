@@ -17,6 +17,12 @@ cd ML_lab
 
 #3. Install Required Libraries
 
+Install Python-env:
+
+sudo apt update
+
+sudo apt install python3-venv python3-full -y
+
 Upgrade pip:
 
 python3 -m pip install --upgrade pip
