@@ -1,0 +1,101 @@
+Employee_ID,Base_Salary,Overtime_Hours,Years_At_Company,Job_Level,Promoted_This_Year,Department
+EMP_0001,100020.71,17.0,14,Mid-Level,No,Marketing
+EMP_0002,86060.22,13.7,5,Mid-Level,No,Finance
+EMP_0003,71976.93,10.7,2,Junior,No,Sales
+EMP_0004,72736.32,15.0,5,Mid-Level,No,Sales
+EMP_0005,88740.78,7.5,4,Mid-Level,No,Sales
+EMP_0006,92404.94,3.4,11,Senior,No,Marketing
+EMP_0007,35700.57,2.1,8,Mid-Level,No,Finance
+EMP_0008,55120.58,23.1,12,Junior,Yes,Human Resources
+EMP_0009,81899.83,2.8,13,Junior,Yes,Human Resources
+EMP_0010,76530.77,4.2,1,Mid-Level,No,Finance
+EMP_0011,350000.0,3.3,5,Mid-Level,No,Finance
+EMP_0012,99360.64,23.9,12,Mid-Level,No,Finance
+EMP_0013,52490.47,2.1,14,Mid-Level,No,Sales
+EMP_0014,70832.52,1.5,4,Mid-Level,Yes,Engineering
+EMP_0015,92909.93,5.4,3,Junior,No,Engineering
+EMP_0016,87927.23,18.8,11,Junior,Yes,Engineering
+EMP_0017,68744.31,17.2,6,Mid-Level,Yes,Finance
+EMP_0018,71256.95,1.7,5,Senior,No,Finance
+EMP_0019,89155.16,5.9,8,Mid-Level,Yes,Sales
+EMP_0020,63505.34,1.5,14,Mid-Level,No,Marketing
+EMP_0021,78123.43,18.4,4,Executive,No,Engineering
+EMP_0022,96130.84,3.8,12,Junior,No,Marketing
+EMP_0023,52663.44,9.7,3,Mid-Level,No,Finance
+EMP_0024,52862.87,5.7,2,Junior,No,Engineering
+EMP_0025,89862.69,8.1,10,Junior,Yes,Marketing
+EMP_0026,61751.54,85.0,11,Executive,No,Engineering
+EMP_0027,69507.24,1.9,2,Mid-Level,Yes,Marketing
+EMP_0028,51979.42,3.3,14,Mid-Level,No,Finance
+EMP_0029,69726.37,8.6,9,Mid-Level,Yes,Marketing
+EMP_0030,84598.77,4.3,11,Mid-Level,Yes,Engineering
+EMP_0031,85338.59,2.4,2,Mid-Level,No,Human Resources
+EMP_0032,86358.79,16.7,2,Senior,No,Engineering
+EMP_0033,53541.75,4.1,1,Mid-Level,No,Engineering
+EMP_0034,68566.81,6.6,8,Junior,No,Sales
+EMP_0035,64724.82,1.5,11,Junior,No,Marketing
+EMP_0036,73115.39,0.1,6,Mid-Level,No,Human Resources
+EMP_0037,92168.81,4.2,6,Mid-Level,No,Sales
+EMP_0038,79908.15,0.9,14,Junior,Yes,Human Resources
+EMP_0039,72949.09,6.0,8,Senior,No,Marketing
+EMP_0040,77687.91,4.9,11,Senior,No,Engineering
+EMP_0041,89534.66,4.2,6,Mid-Level,No,Marketing
+EMP_0042,75088.05,11.3,12,Mid-Level,No,Human Resources
+EMP_0043,-15000.0,0.1,1,Junior,No,Finance
+EMP_0044,69112.85,7.6,1,Mid-Level,No,Sales
+EMP_0045,75538.67,8.4,9,Senior,Yes,Marketing
+EMP_0046,70038.68,10.2,14,Mid-Level,Yes,Sales
+EMP_0047,87131.64,6.8,1,Mid-Level,No,Engineering
+EMP_0048,75799.66,46.1,1,Mid-Level,No,Human Resources
+EMP_0049,55216.47,7.5,10,Mid-Level,No,Finance
+EMP_0050,58803.29,5.6,5,Junior,No,Sales
+EMP_0051,69360.48,3.5,12,Mid-Level,No,Human Resources
+EMP_0052,77230.9,1.2,12,Junior,No,Engineering
+EMP_0053,102223.78,11.5,12,Junior,Yes,Finance
+EMP_0054,83287.48,16.1,5,Mid-Level,No,Sales
+EMP_0055,66911.63,5.0,14,Mid-Level,No,Marketing
+EMP_0056,88905.77,22.8,7,Junior,No,Sales
+EMP_0057,92983.3,9.5,1,Mid-Level,No,Sales
+EMP_0058,75269.52,10.2,5,Senior,Yes,Marketing
+EMP_0059,90238.24,7.4,6,Mid-Level,No,Sales
+EMP_0060,57235.4,16.7,2,Mid-Level,No,Human Resources
+EMP_0061,101461.78,17.1,4,Senior,No,Finance
+EMP_0062,63482.05,72.5,10,Junior,Yes,Sales
+EMP_0063,78917.4,0.3,6,Junior,No,Marketing
+EMP_0064,52711.99,12.9,7,Senior,Yes,Marketing
+EMP_0065,81958.69,37.9,6,Mid-Level,No,Engineering
+EMP_0066,85261.44,1.1,13,Junior,No,Sales
+EMP_0067,39196.67,1.2,5,Mid-Level,No,Marketing
+EMP_0068,74887.71,0.6,11,Mid-Level,No,Finance
+EMP_0069,66796.18,3.3,12,Junior,No,Engineering
+EMP_0070,82123.37,12.7,11,Mid-Level,No,Engineering
+EMP_0071,52028.21,6.7,13,Junior,No,Human Resources
+EMP_0072,103838.95,10.8,5,Mid-Level,No,Marketing
+EMP_0073,72814.62,2.4,8,Senior,No,Human Resources
+EMP_0074,280000.0,7.5,13,Junior,No,Sales
+EMP_0075,61356.37,22.4,10,Junior,No,Marketing
+EMP_0076,90115.57,10.8,14,Junior,Yes,Sales
+EMP_0077,98948.04,3.6,3,Mid-Level,No,Human Resources
+EMP_0078,55645.91,3.4,5,Junior,No,Human Resources
+EMP_0079,67374.63,1.1,3,Junior,No,Sales
+EMP_0080,88983.54,14.8,6,Senior,No,Engineering
+EMP_0081,82428.59,4.5,6,Executive,Yes,Human Resources
+EMP_0082,63040.12,12.2,1,Junior,No,Human Resources
+EMP_0083,78734.27,1.7,9,Mid-Level,No,Marketing
+EMP_0084,89940.41,0.0,9,Executive,Yes,Sales
+EMP_0085,61523.79,17.0,2,Senior,Yes,Human Resources
+EMP_0086,83030.17,17.0,13,Junior,No,Sales
+EMP_0087,91231.36,7.0,9,Mid-Level,No,Engineering
+EMP_0088,76388.47,0.8,8,Senior,No,Finance
+EMP_0089,65468.53,5.7,2,Mid-Level,No,Marketing
+EMP_0090,83879.86,5.4,5,Senior,No,Finance
+EMP_0091,68123.98,5.4,9,Senior,No,Human Resources
+EMP_0092,110974.73,11.3,1,Mid-Level,No,Marketing
+EMP_0093,59940.55,20.5,3,Junior,No,Sales
+EMP_0094,79878.23,3.2,12,Junior,No,Sales
+EMP_0095,95991.55,7.7,3,Senior,Yes,Human Resources
+EMP_0096,68288.57,45.0,13,Junior,Yes,Sales
+EMP_0097,56590.51,12.3,11,Mid-Level,No,Finance
+EMP_0098,58450.59,16.1,4,Mid-Level,No,Sales
+EMP_0099,62281.98,23.4,14,Junior,No,Engineering
+EMP_0100,66816.19,4.6,4,Mid-Level,No,Engineering
